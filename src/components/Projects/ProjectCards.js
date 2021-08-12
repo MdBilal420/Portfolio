@@ -13,10 +13,10 @@ function ProjectCards(props) {
         <Card.Text style={{ textAlign: "justify" }}>
           {props.description}
         </Card.Text>
-        <Button variant="secondary" style={{ margin: 20, backgroundColor: "#050505" }} href={props.linkLive} target="_blank">
+        {props.linkLive && <Button variant="secondary" style={{ margin: 20, backgroundColor: "#050505" }} href={props.linkLive} target="_blank">
           <CgWebsite /> &nbsp;
           Live Demo
-        </Button>
+        </Button>}
         <Button variant="primary" href={props.linkGit} target="_blank">
           <BiLinkExternal /> &nbsp;
           View Project
