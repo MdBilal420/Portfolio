@@ -1,7 +1,5 @@
 import React from "react";
 import Card from "react-bootstrap/Card";
-import Button from "react-bootstrap/Button";
-import { BiLinkExternal } from "react-icons/bi";
 import "../../style.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 
