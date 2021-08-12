@@ -38,7 +38,7 @@ function Projects() {
             <ProjectCard
               imgPath={dukaan}
               title="Dukaan"
-              description="Dukaan: An E-commerce App made in M.E.R.N (MongoDb,Express,ReactJS,NodeJS)"
+              description="Dukaan: An E-commerce App built in M.E.R.N (MongoDb, Express, ReactJS, NodeJS)"
               features={["Authentication", "Private and public routes", "Sorting and Filtering Products", "User actions: like add/remove from cart", "toggle wishlist", "Product description", "Increment/decrement quantity and Total price in Cart page"]}
               linkGit="https://github.com/MdBilal420/dukaan"
               linkLive="https://bigdukaan.netlify.app/"
