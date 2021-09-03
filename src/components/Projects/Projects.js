@@ -27,7 +27,7 @@ function Projects() {
             <ProjectCard
               imgPath={dwidder}
               title="Dwidder"
-              description="A Social Media App built with React + Redux + Material UI."
+              description="A Social Media App (Twitter Clone) built with M.E.R.N + Redux + Material UI."
               features={["Create Post", "Like/Unlike/Delete posts", "Follow/Unfollow other users", "Search Users", "Edit/View profile", "Notifications"]}
               linkGit="https://github.com/MdBilal420/dwidder-socialmedia"
               linkLive="https://dwidder.netlify.app/"
@@ -50,7 +50,7 @@ function Projects() {
               imgPath={viewdeo}
               isBlog={false}
               title="Viewdeo"
-              description="A video library App built using ReactJS."
+              description="A video library App (YouTube Clone) built using ReactJS with playlist features."
               features={["Create/Edit/Delete playlists", "Add/Remove videos from playlist", "Like/Unlike video", "Save video to watch later"]}
               linkGit="https://github.com/MdBilal420/viewdeo"
               linkLive="https://viewdeo.netlify.app/"
