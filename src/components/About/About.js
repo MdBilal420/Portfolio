@@ -15,7 +15,7 @@ function About() {
           <h1 className="project-heading">
             My <strong className="purple">Resume </strong>
           </h1>
-          <Button variant="primary" href="https://drive.google.com/file/d/1ONW47sq9f51vH6p7_4lT-qL2mR_3Es78/view?usp=sharing" target="_blank">
+          <Button variant="primary" href="https://drive.google.com/file/d/1SUCTQtRUOC6gciRPEsWamv0UB-8tb0N9/view?usp=sharing" target="_blank">
             <AiOutlineDownload />
             &nbsp;Download CV
           </Button>
